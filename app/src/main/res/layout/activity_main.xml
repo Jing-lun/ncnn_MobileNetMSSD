@@ -17,6 +17,12 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:text="Gallery"/>
+        <Button
+            android:id="@+id/use_cam"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Camera"/>
     </LinearLayout>
     <TextView
         android:layout_above="@id/btn_ll"

@@ -107,7 +107,7 @@ JNIEXPORT jfloatArray JNICALL Java_com_example_jinglun_mobilenetssd_1demo_Mobile
 
         int output_wsize = out.w;
         int output_hsize = out.h;
-
+    
         //输出整理
         jfloat *output[output_wsize * output_hsize];   // float类型
         for(int i = 0; i< out.h; i++) {
