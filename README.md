@@ -1,4 +1,4 @@
-#Object Dection with Android APP
+# Object Dection with Android APP
 An testing Android APP for fun! 
 
 ---
@@ -13,7 +13,7 @@ computing framework optimized for mobile platforms, is implemented into this APP
 * could open camera and take photos 
 ---
 
-###Update records:
+### Update records:
 * 02/26/2019 first commit!
 * 03/11/2019 add camera part
 * 03/12/2019 update readme
